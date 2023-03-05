@@ -5,7 +5,7 @@
 <?= session()->getFlashdata('error') ?>
 <?= validation_list_errors() ?>
 
-<form action="/webprog/lab3/ci4/public/news/create" method="post">
+<form action="/lab3/ci4/public/news/create" method="post">
     <?= csrf_field() ?>
 
     <label for="title">Title</label>

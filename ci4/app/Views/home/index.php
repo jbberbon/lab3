@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>John Christian Berbon</title>
     <link rel="stylesheet" href="./css/styles.css">
-    <link rel="shortcut icon" type="image/png" href="./img/jc.png">
+    <link rel="shortcut icon" type="image/png" href="..img/jc.png">
 </head>
 
 <body>
@@ -68,7 +68,7 @@
 
 
     <footer>
-        <!-- <div class="contact">
+        <div class="contact">
             <h1 class="contact-me">Contact Me</h1>
             <div class="contact-form-parent">
                 <div class="contact-form-text">
@@ -76,12 +76,12 @@
                         away.
                     </p>
                     <div class="email">
-                        <img src="./img/envelope.png">
+                        <img src="../img/envelope.png">
                         <a
                             href="mailto:jbberbon@student.apc.edu.ph?subject=Inquiry / Feedback">jbberbon@student.apc.edu.ph</a>
                     </div>
                     <div class="github">
-                        <img src="./img/github.png" alt="">
+                        <img src="../img/github.png" alt="">
                         <a href="github.com/jbberbon">github.com/jbberbon</a>
                     </div>
 
@@ -97,8 +97,7 @@
                     </form>
                 </div>
             </div>
-        </div> -->
-        <a href="/lab3/ci4/public/comments/">redirect</a>
+        </div>
         <p class="copyright">&copy; All Rights Reserved 2023</p>
     </footer>
 
